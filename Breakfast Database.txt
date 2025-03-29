@@ -1,0 +1,13 @@
+{name:Aval upma,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Aval%20upma.html},
+{name:Appam,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Appam.html},
+{name:Cucumber salad,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Cucumber%20salad.html},
+{name:Soya milk,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Soya%20milk.html},
+{name:Dhal fry,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Dhal%20fry.html},
+{name:Dosa,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/dosa.html},
+{name:Idli,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Idli.html},
+{name:Pongal,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Pongal.html},
+{name:Chapathi,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Chapathi.html},
+{name:Puttu,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/puttu.html},
+{name:Wheat Bread,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Wheat%20bread.html},
+{name:Oats Idli,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Oats%20idli.html},
+{name:Ragi Dosa,url:file:///C:/Users/user/Desktop/BenProject/Breakfast/Ragi%20dosa.html}

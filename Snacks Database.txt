@@ -1,0 +1,14 @@
+{name:Soya Milk, url:file:///C:/Users/user/Desktop/BenProject/Snacks/Soya%20Milk.html
+{name:Veg Soup, url:file:///C:/Users/user/Desktop/BenProject/Snacks/Veg%20Soup.html
+{name:Almonds, url:file:///C:/Users/user/Desktop/BenProject/Snacks/Almonds.html
+{name:Apple Juice, url: file:///C:/Users/user/Desktop/BenProject/Snacks/Apple%20Juice.html
+{name:Pineapple Juice, url: file:///C:/Users/user/Desktop/BenProject/Snacks/Pineapple%20Juice.html
+{name:Buttermilk, url: file:///C:/Users/user/Desktop/BenProject/Snacks/Buttermilk.html
+{name:Beetroot Juice, url: file:///C:/Users/user/Desktop/BenProject/Snacks/Beetroot%20Juice.html
+{name:Medu Vada, url: file:///C:/Users/user/Desktop/BenProject/Snacks/Medu%20Vada.html
+{name:Wheat Bread, url:file:///C:/Users/user/Desktop/BenProject/Snacks/Wheat%20bread.html
+{name:Chana Masala, url:file:///C:/Users/user/Desktop/BenProject/Snacks/Chana%20Masala.html
+{name:Puttu, url:file:///C:/Users/user/Desktop/BenProject/Snacks/puttu.html
+{name:Orange, url:file:///C:/Users/user/Desktop/BenProject/Snacks/Orange%20Juice.html
+{name:Rasagulla, url:file:///C:/Users/user/Desktop/BenProject/Snacks/Rasagulla.html
+

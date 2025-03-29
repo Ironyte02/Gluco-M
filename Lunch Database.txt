@@ -1,0 +1,12 @@
+{name:Chicken Salna,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Chicken%20salna.html},
+{name:Curd Rice,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Curd%20rice.html},
+{name:Fish fry,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Fish%20fry.html},
+{name:Dum aloo,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Dum%20aloo.html},
+{name:Paratha,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Paratha.html},
+{name:Veg Fried Rice,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Veg%20fried%20rice.html},
+{name:Chicken biryani,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Chicken%20biryani.html},
+{name:Bean sprout curry,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Bean%20sprout%20curry.html},
+{name:Payasam,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Payasam.html},
+{name:Tamarind rice,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Tamarind%20rice.html},
+{name:Bisibele bath,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Bisibele%20bath.html},
+{name:Veg pulao,url:file:///C:/Users/user/Desktop/BenProject/Lunch/Veg%20pulao.html}
