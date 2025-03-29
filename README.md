@@ -26,9 +26,8 @@ GLUCO-M is a dietary recommendation system designed to help diabetes patients ma
    cd GLUCO-M
    ```
 3. **Unzip static.tar file:**
-   ```sh
    Ensure that it is found in the same location as the main.go file. This contains the databases to which you can also add new food items.
-   ```
+   
 
 3. **Run the Application:**  
    ```sh
@@ -48,8 +47,8 @@ GLUCO-M is a dietary recommendation system designed to help diabetes patients ma
 This project is open-source under the MIT License.
 
 ## Contributors
-Benjamin Isaac Thomson
-Rameswar Chandran
+Benjamin Isaac Thomson, 
+Rameswar Chandran, 
 Karthik S
 
 For contributions or feature requests, feel free to open an issue or submit a pull request!
